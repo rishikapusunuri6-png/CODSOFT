@@ -56,5 +56,5 @@ def user_recommendation():
             break
 
         else:
-            print("⚠️ Invalid user_option ! Please try again.")
+            print("Invalid user_option ! Please try again.")
 user_recommendation()
