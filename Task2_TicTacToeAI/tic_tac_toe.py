@@ -61,7 +61,7 @@ def next_move():
     return move
 
 def start_game():
-    print("Tic-Tac-Toe AI 🤖 (You = X, AI = O)")
+    print("Tic-Tac-Toe AI  (You = X, AI = O)")
 
     while True:
         view_board()
