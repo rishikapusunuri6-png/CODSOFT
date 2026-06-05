@@ -1,1 +1,4 @@
-abc
+# (No external libraries needed for this project)
+
+# Python built-in modules are used only:
+# - No pip packages required
