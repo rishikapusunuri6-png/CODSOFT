@@ -74,12 +74,12 @@ def start_game():
         board[user] = "X"
 
         if is_winner(board, "X"):
-            print_board()
+            view_board()
             print("You win!")
             break
 
         if check_tie(board):
-            print_board()
+            view_board()
             print("It's a draw!")
             break
 
