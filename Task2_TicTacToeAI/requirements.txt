@@ -1,1 +1,6 @@
-abc
+# This project uses only built-in Python features.
+
+# No external libraries are required.
+
+python>=3.6
+
