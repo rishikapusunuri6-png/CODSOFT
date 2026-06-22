@@ -2,3 +2,4 @@ opencv-python
 numpy
 face-recognition
 imutils
+google-colab
